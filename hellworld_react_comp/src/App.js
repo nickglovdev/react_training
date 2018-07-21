@@ -34,7 +34,7 @@ export default App */
 //
 // export default App */
 
-// XXX 3. stateless function. Class can have state.
+// XXX 3. stateless function.
 import React from 'react';
 
 const App = () => <h1>Hello world</h1>
