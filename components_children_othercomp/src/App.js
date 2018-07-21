@@ -30,7 +30,7 @@ class App extends React.Component {
     )
   }
 }
-//Stateless Function. being passed in as a prop does not need the bind anymore
+//Stateless Function. being passed in as a props
 const Widget = (props) =>
   <input type="text" onChange={props.update}/>
 
